@@ -99,7 +99,7 @@ theme_mode: dark # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://instagram.fbom19-3.fna.fbcdn.net/v/t51.2885-19/366439365_1804800929943774_117232952206598020_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=instagram.fbom19-3.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QGPALsSUnS9fD26aU5iYFg8QJLqgkE7FHhT7QczhTC_858K3hbKJxhkhMh1RA6OFnPOoAuRLMOdxRIKRTr40nBn&_nc_ohc=q0giZLt0f6gQ7kNvwEcFX_-&_nc_gid=ajlPYHEKqbb9Vb3rtNtNvg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfnicToeys4z__qCdIsuvwuW62sTf0e49dBHeEeclcp5uw&oe=6952BF39&_nc_sid=7a9f4b"
+avatar: "/assets/img/ved.jpeg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
