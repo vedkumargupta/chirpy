@@ -9,38 +9,38 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Tech Blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Blog for Techies.
 
 # Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
+# E.g. 'https://vedkumargupta.github.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: vedkumargupta # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: vedkumargupta # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Vedkumar Gupta
+  email: ved@vedkumargupta.com # change to your email address
   fediverse_handle: "@you@domain.com" # change to your fediverse handle or leave empty
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/vedkumargupta # change to your Twitter homepage
+    - https://github.com/vedkumargupta # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -89,7 +89,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "https://instagram.fbom19-3.fna.fbcdn.net/v/t51.2885-19/366439365_1804800929943774_117232952206598020_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=instagram.fbom19-3.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QGPALsSUnS9fD26aU5iYFg8QJLqgkE7FHhT7QczhTC_858K3hbKJxhkhMh1RA6OFnPOoAuRLMOdxRIKRTr40nBn&_nc_ohc=q0giZLt0f6gQ7kNvwEcFX_-&_nc_gid=ajlPYHEKqbb9Vb3rtNtNvg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfnicToeys4z__qCdIsuvwuW62sTf0e49dBHeEeclcp5uw&oe=6952BF39&_nc_sid=7a9f4b"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
